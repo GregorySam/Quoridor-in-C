@@ -1,0 +1,1 @@
+compile with gcc -o Quoridor Quoridor.c Quoridor_Functions.c
